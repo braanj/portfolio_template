@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Android UI with Html, Css, & JavaScript</h3>
+  <h3 align="center">Developer Portfolio</h3>
 </div>
 
 
